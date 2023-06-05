@@ -2,7 +2,7 @@
 This is a program that lets you animate your desktop wallpaper. (Works on windows only)
 
 <h1>Steps:</h1>
-<h4>Step 1: Extract this zip to your desktop or anywhere you like.</h4>
+<h4>Step 1: Download this project as a zip and then extract it to your desktop or anywhere you like.</h4>
 <h4>Step 2: Go to https://ezgif.com/split to split your GIF into pictures and then save these pictures into a folder</h4>
 <h4>Step 3: Open the "set path.exe" when you open it it will open a text file now type the absolute path to the folder you saved the pictures
 in from step 2, Example: "C:/Users/User/Desktop/Splitted_images" Note: Don't use backslash in the path only use a slash.</h4>
