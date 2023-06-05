@@ -8,3 +8,4 @@ This is a program that lets you animate your desktop wallpaper. (Works on window
 in from step 2, Example: "C:/Users/User/Desktop/Splitted_images" Note: Don't use backslash in the path only use a slash.</h4>
 <h4>Step 4: Go to the folder "Wallpaper animator" and run "Start.exe" as an administrator, And then your wallpaper will be animated. If you want to stop the application go to your system tray press the up arrow and then right click on the program and press quit.</h4>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/88879804/243305564-f1c8d645-5b6e-43e3-954b-f524670e896f.png">
+<h2> Note: If you want to make this program start when your computer boots press windows + r type in "shell:startup" and then make a shortcut to the program in that folder.</h2>
